@@ -27,11 +27,11 @@ This repository is the first step in that journey.
 * ✅ First API endpoint
 * ✅ Swagger documentation
 * ✅ Git & GitHub integration
+* ✅ Path Parameters
+* ✅ Query Parameters
 
 ## What's Next?
 
-* Path Parameters
-* Query Parameters
 * Request Validation with Pydantic
 * CRUD Operations
 * PostgreSQL Integration
