@@ -17,5 +17,5 @@ def health():
             "status": "healthy",
               "version": "1.0.0",
              "msg": "API is running smoothly",
-             "time": datetime.now()
+             "time": datetime.now().strftime("%Y-%m-%d %H:%M:%S")
              }
